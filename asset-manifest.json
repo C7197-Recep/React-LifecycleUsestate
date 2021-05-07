@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-LifecycleUsestate/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/React-LifecycleUsestate/static/js/main.9935b589.chunk.js",
+    "main.js.map": "/React-LifecycleUsestate/static/js/main.9935b589.chunk.js.map",
+    "runtime-main.js": "/React-LifecycleUsestate/static/js/runtime-main.4a4639d0.js",
+    "runtime-main.js.map": "/React-LifecycleUsestate/static/js/runtime-main.4a4639d0.js.map",
+    "static/js/2.89e8d6ae.chunk.js": "/React-LifecycleUsestate/static/js/2.89e8d6ae.chunk.js",
+    "static/js/2.89e8d6ae.chunk.js.map": "/React-LifecycleUsestate/static/js/2.89e8d6ae.chunk.js.map",
+    "static/js/3.cb763a4a.chunk.js": "/React-LifecycleUsestate/static/js/3.cb763a4a.chunk.js",
+    "static/js/3.cb763a4a.chunk.js.map": "/React-LifecycleUsestate/static/js/3.cb763a4a.chunk.js.map",
+    "index.html": "/React-LifecycleUsestate/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/React-LifecycleUsestate/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.89e8d6ae.chunk.js.LICENSE.txt": "/React-LifecycleUsestate/static/js/2.89e8d6ae.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-LifecycleUsestate/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4639d0.js",
+    "static/js/2.89e8d6ae.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9935b589.chunk.js"
+  ]
+}
